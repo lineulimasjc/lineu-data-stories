@@ -9,16 +9,16 @@ st.set_page_config(
 )
 
 pages = {
-    "Portfolio": [
+    "Personal": [
         st.Page("pages/home.py", title="Home", icon="🏡"), #house_with_garden
         st.Page("pages/about.py", title="About", icon="📖"), #open_book
         st.Page("pages/languages.py", title="Languages", icon="🌍"), #earth_africa
         st.Page("pages/contact.py", title="Contact", icon="📞"), #telephone_receiver
     ],
-    # "Projects": [
+    "Projects": [
     #      st.Page("pages/example_three.py", title="Learn about us"),
     #      st.Page("pages/example_two.py", title="Try it out"),
-    # ],
+    ],
 }
 
 pg = st.navigation(pages)
