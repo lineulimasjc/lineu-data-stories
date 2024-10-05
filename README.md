@@ -2,7 +2,7 @@
 
 This is my portfolio to present my Data Analysis projects.
 
-It was created in Python using the Streamlit package, hosted here on Github, and having the Data Science Academy as a reference.
+It was created in Python using the Streamlit package, hosted here on Github, and having the [Data Science Academy](https://www.datascienceacademy.com.br/) as a reference.
 
 You can access it here: [lineu-data-stories.streamlit.app](https://lineu-data-stories.streamlit.app/)
 
