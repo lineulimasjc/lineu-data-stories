@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title('Welcome to my portfolio portal!')
+st.title('Welcome to my portfolio!')
 
 st.write("###")
 
