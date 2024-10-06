@@ -13,6 +13,7 @@ pages = {
         st.Page("pages/home.py", title="Home", icon="🏡"), #house_with_garden
         st.Page("pages/about.py", title="About", icon="📖"), #open_book
         st.Page("pages/languages.py", title="Languages", icon="🌍"), #earth_africa
+        st.Page("pages/certifications.py", title="Certifications", icon="🏆"), #trophy
         st.Page("pages/contact.py", title="Contact", icon="📞"), #telephone_receiver
     ],
     "Projects": [
